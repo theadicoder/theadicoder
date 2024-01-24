@@ -1,8 +1,12 @@
-
+<style>
+  img{
+    border-radius:50%;
+  }
+</style>
 
 ### Profile Into :   
 <div align="center">
-  <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" align="center" style="width: 100%; border-radius: 50%;" />
+  <img src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" align="center" style="width: 100%;" />
 </div>  
 <div align="center">
 <h1>Hello I'm Aditya Thakur I am a 8th Class school student and i am a google developer</h1>
