@@ -1,7 +1,8 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Thakur
+======================================================================================================================
 ![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aditya Thakur
-=====================================================================================================================================
+===============
 
 I'm a IT-Expert, Tech Enthusiast and developer at Google I'm currently I'm joining Microsoft Workshop which is online and free of costing and I'm a certified Google Cloud developer please change me like a amazing and awesome to say that currently I'm in standard 9th
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
