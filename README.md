@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/theadicoder">
-    <img src="blob:https://bigimage.11zon.com/657f73c1-46e9-46b5-8d9e-ebf9a14c0142" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
+    <img src="https://bigimage.11zon.com/657f73c1-46e9-46b5-8d9e-ebf9a14c0142" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
   </a>
 </p>
 
