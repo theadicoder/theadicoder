@@ -1,5 +1,12 @@
+<!-- Profile Header Section -->
 <h1 align="center">Hello, I'm Aaditya Thakur 👨‍💻</h1>
-<h3 align="center">A passionate Full Stack Developer, Open Source Contributor, UI/UX Designer & Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | UI/UX Designer | Open Source Contributor | Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/theadicoder">
+    <img src="https://instagram.fdel1-4.fna.fbcdn.net/v/t51.2885-19/472817255_1771889513350469_8495441416017219780_n.jpg?_nc_ht=instagram.fdel1-4.fna.fbcdn.net&_nc_cat=105&_nc_ohc=R02Nr1kwZ6IQ7kNvgFjGil_&_nc_gid=d01a03457340471f83b72365c18c4fac&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBA9yGnArCfikLAUb5zg9VsepkNPY53N0Z_LBir1bqnGA&oe=678874E7&_nc_sid=7a9f4b" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00aaff&lines=Full+Stack+Developer;Open+Source+Contributor;UI%2FUX+Designer;Tech+Enthusiast;Life+Long+Learner;Student" width="500" height="45">
@@ -7,110 +14,77 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-
-- 🎓 Currently a **9th-grade student** passionate about coding and technology!  
-- 🌱 I’m currently learning **TypeScript**, **React Native**, and **Machine Learning**.  
-- ⚙️ Focused on building scalable, efficient, and beautiful applications.  
-- 🔧 I love creating **user-friendly apps** and designing intuitive interfaces.  
-- 💬 Ask me about **JavaScript**, **Python**, **UI/UX Design**, or anything tech-related!  
-- 📧 Reach me at: **[aadityathakur@example.com](mailto:aadityathakur@example.com)**  
+### 🚀 **About Me**
+- 🎓 **9th-grade student** with a passion for technology and innovation!
+- 🌱 Currently learning **TypeScript**, **React Native**, and **Machine Learning** to build awesome, scalable apps.
+- 👨‍💻 Focused on building web and mobile applications with **React**, **Node.js**, and **Flutter**.
+- 🔧 My goal is to create **user-friendly interfaces** that solve real-world problems.
+- 💬 I love discussing topics related to **Web Development**, **AI**, and **UI/UX Design**.
+- 📧 You can reach me at: [thakuradi8368@gmail.com](mailto:thakuradi8368@gmail.com)
 
 ---
 
-<h2 align="center">💻 Skills & Technologies</h2>
+### 🔥 **Tech Stack**
+- **Frontend**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) 
+- **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
+- **Mobile**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+- **Database**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+- **Design**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 
+---
+
+### 📈 **My GitHub Stats**
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-%23404d59?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=theadicoder&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical" alt="My GitHub Stats">
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theadicoder&show_icons=true&hide_border=true&theme=dark&hide_title=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theadicoder&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
----
-
-<h2 align="center">🎯 Top Projects</h2>
-
-#### 🔗 [**Project 1**](#)  
-**Description**: Build a full-stack web app using **React** and **Node.js**. Features authentication, dynamic content, and integrates third-party APIs.  
-**Tech**: React, Node.js, Express, MongoDB, JWT Authentication  
-🌟 [View Project](#)  
-
-#### 🔗 [**Project 2**](#)  
-**Description**: A modern **portfolio website** showcasing projects and technical skills with a sleek UI/UX design.  
-**Tech**: HTML5, CSS3, JavaScript, Figma  
-🌟 [View Project](#)  
-
-#### 🔗 [**Project 3**](#)  
-**Description**: **E-commerce App** with a beautiful UI and features like cart, product search, and real-time updates using **React** and **Firebase**.  
-**Tech**: React, Firebase, Firestore, Tailwind CSS  
-🌟 [View Project](#)  
-
-Feel free to replace the placeholders with your actual project links and details!
+### 🌐 **Connect with Me**
+- **Website**: [theadicoder.netlify.app](https://theadi.netlify.app)
+- **Blog**: [theadicoder.blogspot.com](https://theadicoder.blogspot.com)
+- **GitHub**: [theadicoder on GitHub](https://github.com/theadicoder)
+- **YouTube**: [TheAdiCoder](https://www.youtube.com/@theadicoder)
+- **Instagram**: [@theadicoder](https://www.instagram.com/theadicoder)
 
 ---
 
-<h2 align="center">🔗 Connect with Me</h2>
+### 📚 **My Projects**
+- **[React Notes App](https://github.com/theadicoder/react-notes-app)**: A web app to create, update, and delete notes using **React** and **Node.js**.
+- **[My Portfolio Website](https://github.com/theadicoder/portfolio)**: A responsive portfolio website showcasing my projects and skills.
+- **[Machine Learning Project](https://github.com/theadicoder/ml-project)**: A beginner-friendly ML project that classifies images using **TensorFlow** and **Keras**.
 
+---
+
+### 📝 **Blog Articles**
+- [Unreal Engine 5.4 brings animation, rendering, and AI upgrades](https://theadicoder.blogspot.com/2024/04/unreal-engine-54.html)
+- [JavaScript Best Practices for Beginners](https://theadicoder.blogspot.com/2024/03/javascript-best-practices.html)
+
+---
+
+### 🎯 **My Goals**
+- Continue learning and mastering **Full Stack Development**.
+- Contribute more to **Open Source** projects and communities.
+- Create and share my knowledge with others through tutorials and blog posts.
+
+---
+
+### 💬 **Support Me**
+If you like what I do, consider supporting me by:
+- **Star**ing my repositories on GitHub.
+- Following me on [Instagram](https://www.instagram.com/theadicoder).
+- Watching my videos on [YouTube](https://www.youtube.com/@theadicoder).
+
+---
+
+### 📝 **Get in Touch**
+I am always open to new opportunities, collaborations, and discussions related to technology. Feel free to reach out to me anytime via email or on any of my social media platforms!
+
+---
+
+<!-- Footer Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/theadicoder" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/theadicoder" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/theadicoder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:theadicoder@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github.com/theadicoder/theadicoder">
+    <img src="https://img.shields.io/badge/-Made%20with%20❤️%20by%20TheAdiCoder-orange?style=flat" alt="Made by TheAdiCoder" />
   </a>
 </p>
-
----
-
-<h2 align="center">📈 Activity & Contributions</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theadicoder&theme=radical&margin-w=15&margin-h=15&column=7&row=1&no-frame=true" alt="Trophy"/>
-</p>
-
----
-
-<h2 align="center">📃 My Dev Journey 📅</h2>
-
-<p align="center">
-  <img src="https://dev.to/theadicoder/status.svg" alt="Latest blog"/>
-</p>
-
----
-
-<h2 align="center">⚡ Fun Facts & Quotes</h2>
-
-> "The best way to predict the future is to create it."  
-> - **Abraham Lincoln**
-
-- 🧑‍💻 Started coding before I could spell "JavaScript"!  
-- 🎮 Love to game and explore tech innovations.  
-- 🌍 Believer in open-source contributions and community-driven learning.
-
----
-
-<h2 align="center">📱 Get in Touch</h2>
-
-- 💬 **I’m always open to discussing new projects, collaborations, or tech ideas!**
