@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/theadicoder">
-    <img src="[https://bigimage.11zon.com/657f73c1-46e9-46b5-8d9e-ebf9a14c0142](https://photos.app.goo.gl/gckk24RoWaAL2hT7A)](https://photos.fife.usercontent.google.com/pw/AP1GczPfgCdKNe8kb0AS2yM-nWcrTLN6SQTHHPITnd0SMbAnV2cuGuCvF_yC=w923-h923-s-no-gm?authuser=0)" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
+    <img src="https://avatars.githubusercontent.com/u/108754292?v=4" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
   </a>
 </p>
 
