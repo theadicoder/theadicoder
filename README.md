@@ -4,15 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/theadicoder">
-    <img src="https://instagram.fdel1-4.fna.fbcdn.net/v/t51.2885-19/472817255_1771889513350469_8495441416017219780_n.jpg?_nc_ht=instagram.fdel1-4.fna.fbcdn.net&_nc_cat=105&_nc_ohc=R02Nr1kwZ6IQ7kNvgFjGil_&_nc_gid=d01a03457340471f83b72365c18c4fac&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBA9yGnArCfikLAUb5zg9VsepkNPY53N0Z_LBir1bqnGA&oe=678874E7&_nc_sid=7a9f4b" alt="Profile Picture" width="200" height="200" class="profile-img" />
+    <img src="https://instagram.fdel1-4.fna.fbcdn.net/v/t51.2885-19/472817255_1771889513350469_8495441416017219780_n.jpg?_nc_ht=instagram.fdel1-4.fna.fbcdn.net&_nc_cat=105&_nc_ohc=R02Nr1kwZ6IQ7kNvgFjGil_&_nc_gid=d01a03457340471f83b72365c18c4fac&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBA9yGnArCfikLAUb5zg9VsepkNPY53N0Z_LBir1bqnGA&oe=678874E7&_nc_sid=7a9f4b" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 5px solid #4A90E2; box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);" />
   </a>
 </p>
-.profile-img {
-  border-radius: 50%;
-  border: 5px solid #4A90E2;  /* Change color as per your preference */
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-}
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00aaff&lines=Full+Stack+Developer;Open+Source+Contributor;UI%2FUX+Designer;Tech+Enthusiast;Life+Long+Learner;Student" width="500" height="45">
