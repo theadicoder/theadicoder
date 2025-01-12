@@ -50,9 +50,9 @@
 ---
 
 ### 📚 **My Projects**
-- **[React Notes App](https://theadi.netlify.app/)**: Hello and welcome to theadicoder site. Resume Projects. About Me. 👋Hello I am " Aaditya Thakur ", I Am The Founder Of The Site These Site Make The Tech Think Better And Easy With Ai … **HTML** and **CSS** **JS**.
-- **[My Portfolio Website](https://github.com/theadicoder/portfolio)**: A responsive portfolio website showcasing my projects and skills.
-- **[Machine Learning Project](https://github.com/theadicoder/ml-project)**: A beginner-friendly ML project that classifies images using **TensorFlow** and **Keras**.
+- **[Our Portfolio Web View](https://theadi.netlify.app/)**: Hello and welcome to theadicoder site. Resume Projects. About Me. 👋Hello I am " Aaditya Thakur ", I Am The Founder Of The Site These Site Make The Tech Think Better And Easy With Ai … **HTML** and **CSS** **JS**.
+- **[theadicoder official Site](https://theadicoderenterprise.netlify.app/)**: Our Company's Official Web Project Here In **HTML**, **CSS**, **JS** and **tailwindcss**.
+- **[Videoplayer](https://github.com/theadicoder/Videoplayer)**: Cloud Video Player Project Player For Educational Brand  **tailwindcss** , **CSS** and **HTML**.
 
 ---
 
